@@ -4,6 +4,7 @@
 **PAIETO/PAIETO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Jao](https://github.com/user-attachments/assets/573348f6-9a28-414d-8791-0f8540b1bcbd)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
