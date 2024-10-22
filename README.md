@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋![Jao](https://github.com/user-attachments/assets/cda083f5-ec1c-4102-a270-ecb610d03c6c)
+
 
 <!--
 **PAIETO/PAIETO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
